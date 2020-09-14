@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="97" viewBox="0 0 82 97">
+    <g fill="none" fill-rule="evenodd">
+        <text fill="#333" font-family="Arial" font-size="16" opacity=".47" transform="translate(2 2)">
+            <tspan x="6" y="88">нет фото</tspan>
+        </text>
+        <path stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M52 35.5c0 4.137-3.358 7.5-7.502 7.5A7.502 7.502 0 0 1 37 35.5a7.5 7.5 0 0 1 15 0zm9 .497C61 27.16 53.613 20 44.497 20 35.386 20 28 27.161 28 35.997 28 44.839 35.386 52 44.497 52 53.613 52 61 44.839 61 35.997zM73 24a4 4 0 1 0-8 0c0 2.21 1.785 4 4 4 2.205 0 4-1.79 4-4zm7-14H2v52h78V10zm-45 0V2H16v8h19z" opacity=".293"/>
+    </g>
+</svg>
